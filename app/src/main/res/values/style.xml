@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Other theme attributes -->
+
+        <!-- Make the status bar transparent -->
+        <item name="android:windowTranslucentStatus">true</item>
+
+        <!-- Use a light status bar (dark icons) -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
